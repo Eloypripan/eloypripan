@@ -11,7 +11,7 @@ Young guy with interests in Data Science, Cloud Computing, Infrastructure Manage
 * 🚀 I'm currently studying.
 * 👤 Socials: [LinkedIn](https://www.linkedin.com/in/eloypripan) | [GitHub](https://www.github.com/eloypripan) | [Telegram](https://t.me/eloypripan).
 
-<a href="http://www.github.com/Eloypripan"><img src="https://github-readme-stats.vercel.app/api?username=Eloypripan&show_icons=true&hide=&count_private=true&title_color=9c27b0&text_color=000000&icon_color=9c27b0" alt="Eloypripan's GitHub stats" /></a>
+<a href="http://www.github.com/eloypripan"><img src="https://github-readme-stats.vercel.app/api?username=eloypripan&show_icons=true&hide=&count_private=true&title_color=9c27b0&text_color=000000&icon_color=9c27b0" alt="Eloypripan's GitHub stats" /></a>
 
 
 
