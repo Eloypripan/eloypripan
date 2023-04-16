@@ -4,7 +4,7 @@
 :)
 -----------------------------
 
-Young guy with interests in Data Science, Cloud Computing, Infrastructure Management. I love a good conversation with a coffee in a sunny day.
+Young guy with interests in Data Science, AI and Cloud Computing. I love a good conversation with a coffee in a sunny day.
 
 * 🌍 I'm based in Granada, Spain.
 * ✉️ You can contact me at [eloyprietopanadero@gmail.com](mailto:eloyprietopanadero@gmail.com) or at [t.me/eloypripan](https://t.me/eloypripan).
